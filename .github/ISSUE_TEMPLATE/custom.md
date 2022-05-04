@@ -1,6 +1,6 @@
 ---
-name: 新しい案件
-about: See See .github/ISSUE_TEMPLATE/custom.md
+name: 新しい依頼
+about: これは新しい依頼の作成画面です。
 title:  "[案件タイトル]"
 labels: 'ToDo'
 assignees: 'emjini'
