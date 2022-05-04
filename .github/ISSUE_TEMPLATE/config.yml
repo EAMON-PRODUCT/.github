@@ -3,4 +3,4 @@ contact_links:
   - name: 新しい案件を追加する
     about: made by config.yml
     # edit {username} and {repo} for your environment
-    # url: https://github.com/SYSFACOrder/R4EX003/issues/new?template=custom.md&projects=SYSFACOrder%2FR4EX003%2F1&labels=ToDo
+    # url: https://github.com/SYSFACOrder/R4EX003/issues/new?template=custom.md&projects=SYSFACOrder%2Fprojects%2F3%2F1&labels=ToDo
