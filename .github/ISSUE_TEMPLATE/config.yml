@@ -4,4 +4,4 @@ contact_links:
     about: made by config.yml
     # edit {username} and {repo} for your environment
     # https://github.com/SYSFACOrder/${{ context.property }}/issues/new?template=custom.md&projects=SYSFACOrder%2Fprojects%2F3&labels=ToDo
-    url: https://github.com/SYSFACOrder/${{ context.property }}/issues/new?template=custom.md&projects=SYSFACOrder%2Fprojects%2F3&labels=ToDo
+    # url: https://github.com/SYSFACOrder/${{ context.property }}/issues/new?template=custom.md&projects=SYSFACOrder%2Fprojects%2F3&labels=ToDo
