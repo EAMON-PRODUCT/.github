@@ -3,6 +3,8 @@ name: 案件追加
 about: See See .github/ISSUE_TEMPLATE/custom.md
 title:  "[DATE]: [FEATURE NAME]"
 labels: 'ToDo'
+projects: 'kaitas/ToDo'
+assignees: 'kaitas'
 ---
 
 
