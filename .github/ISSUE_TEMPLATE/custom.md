@@ -1,16 +1,16 @@
 ---
-name: ToDo template
+name: 案件追加
 about: See See .github/ISSUE_TEMPLATE/custom.md
-title:  "[DATE]: [FEATURE NAME]"
+title:  "[依頼者名]: [案件タイトル]"
 labels: 'ToDo'
-projects: 'kaitas/ToDo'
-assignees: 'kaitas'
 ---
 
 
-## Description
+## 案件概要
 
-1. To
-2. Do
+---ここに概要を書く---
 
-- [ ] 
+- [ ] 支払
+- [ ] 作成
+- [ ] 検品
+- [ ] 納品
