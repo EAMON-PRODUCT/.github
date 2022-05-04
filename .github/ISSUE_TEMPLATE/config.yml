@@ -1,6 +1,4 @@
 blank_issues_enabled: true
-env:
-  DAY_OF_WEEK: ${{ github.repository }}
 contact_links:
   - name: 新しい案件を追加する
     about: made by config.yml
