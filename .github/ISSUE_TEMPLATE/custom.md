@@ -1,13 +1,13 @@
 ---
 name: 新しい依頼
-about: これは新しい依頼の作成画面です。
+about: 新しい依頼の作成画面
 title:  "[案件タイトル]"
 labels: 'ToDo'
 assignees: 'emjini'
 ---
 
 # 報酬配分
-Setiwan：
+Setiwan co.,ltd.：
 有限会社陣一：
 
 # 期限
