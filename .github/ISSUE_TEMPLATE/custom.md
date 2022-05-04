@@ -1,7 +1,7 @@
 ---
 name: 案件追加
 about: See See .github/ISSUE_TEMPLATE/custom.md
-title:  "[依頼者名]: [案件タイトル]"
+title:  "[DATE]: [FEATURE NAME]"
 labels: 'ToDo'
 ---
 
