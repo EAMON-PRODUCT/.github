@@ -1,6 +1,6 @@
 blank_issues_enabled: true
 contact_links:
-  - name: 新しい案件を追加する
+  - name: Add new ToDo
     about: made by config.yml
     # edit {username} and {repo} for your environment
-    url: echo "https://github.com/SYSFACOrder/R4EX003/issues/new?template=custom.md&projects=SYSFACOrder%2Fprojects%2F3%2F1&labels=ToDo"
+    url: https://github.com/kaitas/ToDo/issues/new?template=custom.md&projects=kaitas%2FToDo%2F1&labels=ToDo
