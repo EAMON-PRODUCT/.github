@@ -1,9 +1,9 @@
 blank_issues_enabled: true
 env:
-  DAY_OF_WEEK: Monday
+  DAY_OF_WEEK: https://github.com/SYSFACOrder/$DAY_OF_WEEK/issues/new?template=custom.md&projects=SYSFACOrder%2Fprojects%2F3&labels=ToDo
 contact_links:
   - name: Add new ToDo
     about: made by config.yml
     # edit {username} and {repo} for your environment
     # https://github.com/SYSFACOrder/$DAY_OF_WEEK/issues/new?template=custom.md&projects=SYSFACOrder%2Fprojects%2F3&labels=ToDo
-    url: https://github.com/SYSFACOrder/$DAY_OF_WEEK/issues/new?template=custom.md&projects=SYSFACOrder%2Fprojects%2F3&labels=ToDo
+    url: $DAY_OF_WEEK
