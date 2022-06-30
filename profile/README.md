@@ -1,11 +1,16 @@
 ## Hi there 👋
 
+EA門のサイト
+http://dream-fx.work/
+
 決済URL
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=34DHVVKWKYUW6
 
 Sandbox
 https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z758DH2UYQNRE&custom=20475007,21166
 <!--
+
+
 
 **Here are some ideas to get you started:**
 
