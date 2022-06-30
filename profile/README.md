@@ -3,6 +3,9 @@
 EA門のサイト
 http://dream-fx.work/
 
+商品と架空作者一覧
+https://peat-output-584.notion.site/5f5d2940a03847249922a50af53f225d?v=6644c7b3fd0b4ca0b8bc2a92f9fadd96
+
 決済URL
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=34DHVVKWKYUW6
 
